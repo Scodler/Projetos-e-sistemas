@@ -1,0 +1,11 @@
+ // Exemplo 7 - Controlando o brilho do LED com potenciômetro
+// Apostila Eletrogate - KIT INICIANTE
+#define LED 3 //nomeia o pino do LED
+#define POT A0 //nomeia o pino do potenciômetro
+void setup(){
+pinMode(LED, OUTPUT); //configura o pino do led como saída
+}
+void loop(){
+int brilho = map(analogRead(POT), 0, 1023, 0, 255); //conversão de valores
+analogWrite(LED, brilho); //varia o brilho do LED
+}
