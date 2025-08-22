@@ -147,8 +147,3 @@ README.md
 - [ ] Documentar testes e resultados no `/docs` e Overleaf.
 
 ---
-
-## 10) Segurança
-
-- Este é um **protótipo acadêmico** e **não** deve ser usado como dispositivo de segurança em ambientes com risco de explosão ou intoxicação.  
-- Trabalhar sempre em área ventilada; **desligar** o sistema antes de qualquer intervenção elétrica.
