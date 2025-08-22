@@ -88,8 +88,7 @@
 
 ---
 
-## 5) Montagem (pinout sugerido)
-
+## 5) Montagem
 | Função           | Pino ESP8266 | Observações                      |
 |------------------|--------------|----------------------------------|
 | Sensor MQ – AOUT | **A0**       | Verificar range de tensão        |
